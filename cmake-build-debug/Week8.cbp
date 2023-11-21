@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/henry/CLionProjects/discussion8/Queue.cpp">
+			<Option target="Week8"/>
+		</Unit>
 		<Unit filename="C:/Users/henry/CLionProjects/discussion8/Queue.h">
 			<Option target="Week8"/>
 		</Unit>

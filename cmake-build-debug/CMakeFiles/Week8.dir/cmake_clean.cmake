@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Week8.dir/Queue.cpp.obj"
+  "CMakeFiles/Week8.dir/Queue.cpp.obj.d"
   "CMakeFiles/Week8.dir/main.cpp.obj"
   "CMakeFiles/Week8.dir/main.cpp.obj.d"
   "Week8.exe"
